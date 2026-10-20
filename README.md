@@ -1297,6 +1297,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Agent Margin Router](https://agentmarginrouter.com) `https://agent-margin-router-production.up.railway.app/mcp`
   [![AgentMarginRouter MCP connector](https://glama.ai/mcp/connectors/io.github.AgentMarginRouter/agent-margin-router/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.AgentMarginRouter/agent-margin-router)
   🔓 - Live gas fees and USD tx costs on Base, Ethereum, Arbitrum, Optimism and Polygon; x402 pay-per-call.
+- [Agent Paywire Library](https://agentpaywire.com) `https://mcp.agentpaywire.com/mcp`
+  [![Agent Paywire Library MCP connector](https://glama.ai/mcp/connectors/com.agentpaywire/library/badges/score.svg)](https://glama.ai/mcp/connectors/com.agentpaywire/library)
+  🔓 - Agent payments library (L402, x402, Lightning, stablecoins): sources, datasets, verified bots, trust checklist.
 - [Agent Rynku](https://agentrynku.pl/en/mcp) `https://agentrynku.pl/api/mcp`
   [![Agent Rynku MCP connector](https://glama.ai/mcp/connectors/pl.agentrynku/gpw/badges/score.svg)](https://glama.ai/mcp/connectors/pl.agentrynku/gpw)
   🔓 - GPW daily equity prices, company search, quarterly financials and ratios, earnings calendar, and issuer dividends.
